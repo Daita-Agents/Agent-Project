@@ -1,0 +1,9 @@
+# Daita Agents Framework
+daita-agents>=0.1.0
+
+# LLM provider (choose one)
+openai>=1.0.0
+
+# Development
+pytest>=7.0.0
+pytest-asyncio>=0.21.0

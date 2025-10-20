@@ -71,9 +71,9 @@ Daita-Agents/
 - `daita create workflow <name>` - Create new workflow
 
 **Premium Commands (Cloud Hosting):**
-- `daita push <env>` - Deploy to cloud
+- `daita push` - Deploy to cloud
 - `daita status` - Monitor deployments
-- `daita logs <env>` - View execution logs
+- `daita logs` - View execution logs
 - `daita run <agent>` - Execute remotely
 
 ## Learn More
